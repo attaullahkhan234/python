@@ -1,0 +1,6 @@
+IMPORTANT Finish Python homework
+junk line: blah blah
+TODO Study file handling
+random text
+IMPORTANT Practice OOP
+TODO Complete project
